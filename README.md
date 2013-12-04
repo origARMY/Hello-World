@@ -8,7 +8,7 @@ cd ~/Hello-World
 
 git init
 # Sets up the necessary Git files
-# Initialized empty Git repository in /Users/snipdujour/origarmy/Hello-World/.git/
+# Initialized empty Git repository in /Users/snipdujour/Hello-World/.git/
 
 touch README
 # Creates a file called "README" in your Hello-World directory
